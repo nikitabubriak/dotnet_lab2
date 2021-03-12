@@ -1,0 +1,13 @@
+E:\KPI\NET\labs\dotnet_lab2\lab2\obj\Debug\netcoreapp3.1\lab2.csprojAssemblyReference.cache
+E:\KPI\NET\labs\dotnet_lab2\lab2\obj\Debug\netcoreapp3.1\lab2.AssemblyInfoInputs.cache
+E:\KPI\NET\labs\dotnet_lab2\lab2\obj\Debug\netcoreapp3.1\lab2.AssemblyInfo.cs
+E:\KPI\NET\labs\dotnet_lab2\lab2\obj\Debug\netcoreapp3.1\lab2.csproj.CoreCompileInputs.cache
+E:\KPI\NET\labs\dotnet_lab2\lab2\bin\Debug\netcoreapp3.1\lab2.exe
+E:\KPI\NET\labs\dotnet_lab2\lab2\bin\Debug\netcoreapp3.1\lab2.deps.json
+E:\KPI\NET\labs\dotnet_lab2\lab2\bin\Debug\netcoreapp3.1\lab2.runtimeconfig.json
+E:\KPI\NET\labs\dotnet_lab2\lab2\bin\Debug\netcoreapp3.1\lab2.runtimeconfig.dev.json
+E:\KPI\NET\labs\dotnet_lab2\lab2\bin\Debug\netcoreapp3.1\lab2.dll
+E:\KPI\NET\labs\dotnet_lab2\lab2\bin\Debug\netcoreapp3.1\lab2.pdb
+E:\KPI\NET\labs\dotnet_lab2\lab2\obj\Debug\netcoreapp3.1\lab2.dll
+E:\KPI\NET\labs\dotnet_lab2\lab2\obj\Debug\netcoreapp3.1\lab2.pdb
+E:\KPI\NET\labs\dotnet_lab2\lab2\obj\Debug\netcoreapp3.1\lab2.genruntimeconfig.cache
